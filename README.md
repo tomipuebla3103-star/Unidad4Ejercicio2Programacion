@@ -1,4 +1,5 @@
 <img width="372" height="215" alt="image" src="https://github.com/user-attachments/assets/6438ecdc-bb1b-4a91-ada5-518395b24173" />
+
 Sistema de Cálculo de Impuestos Salariales
 
 Descripción
